@@ -16,7 +16,7 @@ Hi, this is a site managed by [Ethan Longe](https://github.com/ethanlonge) if yo
 This site is built using Hugo on the Codex theme. This means all the content is written in Markdown. If you do not know what markdown is, this is a great guide to get started: [https://www.markdownguide.org](https://www.markdownguide.org). 
 
 ## GitHub
-Once you understand how you edit the site, you can then create a branch on our [GitHub Repo](https://github.com/ethanlonge/math1007-site) and then make your changes and make a pull request. There are many good tutorials on how to do this. Once our team of moderators has accepted your changes, we will then push it to the master branch which will then update the site. Please make sure to also put your name in the author section on any pages you create so people can see what you have written
+Once you understand how you edit the site, you can then create a branch on our [GitHub Repo](https://github.com/ethanlonge/math1007-site) and then make your changes and make a pull request. There are many good tutorials on how to do this. Once our team of moderators has accepted your changes, we will then push it to the master branch which will then update the site. 
 
 ## Creating a new page
 If you want to create a new page, just copy and paste a different page and change the content (change the tags to reflect the unit you are writing for). Please place it in the ```/blog``` folder. Name it as ```{unit}_{name}``` and when you are done with it, commit it to your own branch and open a pull request
