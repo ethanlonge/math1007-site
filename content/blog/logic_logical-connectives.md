@@ -78,4 +78,4 @@ $$
 
 ### Examples
 
-Please add some examples here by [contributing](/pages/contribute)
+Please add some examples here by [contributing](/page/contribute)
