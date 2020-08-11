@@ -1,6 +1,6 @@
 theme: "Codex"
 title: "Discrete Mathematics I"
-baseURL: "https://blog.mango.fruitysites.com/"
+baseURL: "https://math1007.fruitysites.com"
 languageCode: "en-GB"
 
 copyright: "© {year}"
