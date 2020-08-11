@@ -1,0 +1,50 @@
+theme: "Codex"
+title: "Discrete Mathematics I"
+baseURL: "https://blog.mango.fruitysites.com/"
+languageCode: "en-GB"
+
+copyright: "© {year}"
+
+Menus:
+  main:
+    - Name: "About"
+      URL: "/"
+      Weight: 1
+      identifier: "about"
+    - Name: "Contribute"
+      URL: "/page/contribute/"
+      Weight: 2
+    - Name: "Units"
+      URL: "/page/units"
+      Weight: 3 
+    # - Name: "Tags"
+    #   URL: "/tags/"
+    #   Weight: 4
+    
+
+# taxonomies:
+#   archy: "year"
+#   month: "month"
+#   tags: "tags"
+#   unit: "units"
+
+# permalinks:
+#   posts: ":section/:year/:month/:slug/"
+#   year: ":section/:year/"
+#   month: ":section/:year/:month/"
+
+params:
+  dateFormat: "Jan 2 2006"
+  github: "https://github.com/ethanlonge/math1007-site/"
+  showPageTitleInTOC: true
+  math: true
+  toc: true
+markup:
+  goldmark:
+    parser:
+      attribute: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      unsafe: true
+
