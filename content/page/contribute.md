@@ -6,6 +6,7 @@ description: "How do I contribute to this site?"
 keywords: ["administration", "contribution"]
 draft: false
 tags: ["admin"]
+toc: true
 ---
 
 ## Introduction
